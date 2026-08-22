@@ -14,5 +14,5 @@
 <hr/>
 
 <div align="center">
-    <b>This repository contains only dependencies for <a href="https://github.com/deathkiller/jazz2-native">deathkiller/jazz2-native</a>.</b><br>For more information, visit <a href="http://deat.tk/jazz2/">the official website</a>.
+    <b>This repository contains only dependencies for <a href="https://github.com/deathkiller/jazz2-native">deathkiller/jazz2-native</a>.</b><br>For more information, visit <a href="http://de4th.dev/jazz2/">the official website</a>.
 </div>
